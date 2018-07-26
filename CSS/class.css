@@ -1,0 +1,85 @@
+#head
+{
+	background:	#DAA520;
+	color:black;
+	height:20%;
+	
+}
+
+
+
+#mob_head
+{
+	background:	#DAA520;
+	color:black;
+	height:10%;
+	
+}
+
+.cos_img 
+{
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    position:relative;
+    left:155px;
+    width:60%;
+    
+}
+
+.cos_coe 
+{
+    position:relative;
+    left:155px;
+}
+
+#head_name
+{
+	font-size:250%;
+	font-family:Lucida Console;
+	position:relative;
+	top:20%;
+}
+
+.qp_cos
+{
+	background: #DDA0DD;
+}
+
+
+
+
+.coe
+{
+	border: 5px solid 	#FF0000;
+    border-radius: 10px;
+}
+
+.tmarks
+{
+	border: 5px solid 	#FF0000;
+    border-radius: 10px;
+}
+
+
+.btn-custom
+  {
+    color: #000000;
+    background-color: #000000;
+    border-color: #357ebd; 
+}
+
+.h2
+{
+	background:	#FFB6C1;
+	height:6%;
+	font-size:160%;
+	color: #fff;
+}
+.mob_h2
+{
+	background:	#FFB6C1;
+	height:3%;
+	font-size:160%;
+	color: #000;
+}

@@ -1,0 +1,151 @@
+#head
+{
+	background:#4B0082;
+	color:white;
+	height:20%;
+	
+}
+
+#head_name
+{
+	font-size:250%;
+	font-family:Lucida Console;
+	position:relative;
+	top:20%;
+}
+
+body 
+{
+      position: relative;
+}
+  
+ #section1 
+ {
+ 	padding-top:50px;
+ 	height:500px;
+ 	color: #fff; 
+ 	background-color: #20B2AA;
+ }
+#section2 
+{
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: 	#00008B;
+}
+#section3 
+{
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: #008000;
+}
+#section4
+{
+	padding-top:50px;
+	height:200px;
+	color: #fff; 
+	background-color: 	#FFA500;
+}
+#section5 
+{
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: 	#DC143C;
+}
+#section6 
+{
+	padding-top:50px;
+	height:500px;
+	color: #fff; 
+	background-color: #DAA520;
+}
+#section7 
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: 	#696969;
+}
+.navbar
+{
+	background:#4B0082;
+	color:white;
+}
+ @media screen and (max-width: 810px) {
+    #section1, #section2, #section3, #section41, #section42  {
+        margin-left: 150px;
+    }
+  }
+  
+  .btn-custom
+  {
+    color: #000000;
+    background-color: #000000;
+    border-color: #357ebd; 
+}
+
+
+#notes_1
+{
+	width:10%;
+	height:20%;
+}
+
+#notes_3
+{
+	
+	width:20%;
+	height:auto;
+}
+
+#mob_section1 
+ {
+ 	padding-top:50px;
+ 	height:300px;
+ 	color: #fff; 
+ 	background-color: #20B2AA;
+ }
+#mob_section2 
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: 	#00008B;
+}
+#mob_section3 
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: #008000;
+}
+#mob_section4
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: 	#FFA500;
+}
+#mob_section5 
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: 	#DC143C;
+}
+#mob_section6 
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: #DAA520;
+}
+#mob_section7 
+{
+	padding-top:50px;
+	height:300px;
+	color: #fff; 
+	background-color: 	#696969;
+}

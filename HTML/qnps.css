@@ -1,0 +1,82 @@
+#head
+{
+	background:#FFE4E1;
+	color:black;
+	height:20%;
+	
+}
+
+#head_name
+{
+	font-size:250%;
+	font-family:Lucida Console;
+	position:relative;
+	top:20%;
+}
+
+.qp_cos
+{
+	background: #DDA0DD;
+}
+
+.ade
+{
+	border: 2px solid #d6d6c2;
+    border-radius: 10px;
+}
+
+th, td {
+    
+    overflow: hidden;
+    width: 10%;
+    height:40px;
+}
+
+.ade_h2
+{
+	background: #20B2AA;
+	color:white;
+	height:5%;
+	font-size:160%;
+}
+
+.ds_h2
+{
+	color: #fff; 
+	background-color: #008000;
+	height:6%;
+	font-size:160%;
+}
+
+.dms_h2
+{
+	color: #fff; 
+	background-color: 	#FFA500;
+	height:6%;
+	font-size:160%;
+}
+
+.maths_h2
+{
+	color: #fff; 
+	background-color: 	#DC143C;
+	height:6%;
+	font-size:160%;
+}
+
+.unix_h2
+{
+	color: #fff; 
+	background-color: #DAA520;
+	height:6%;
+	font-size:160%;
+}
+
+.co_h2
+{
+	color: #fff; 
+	background-color: 	#00008B;
+	height:6%;
+	font-size:160%;
+}
+
